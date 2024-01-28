@@ -17,4 +17,8 @@ My plan? To create my own projects. Picture this: transforming my month-long Eur
 
 Here's the roadmap of my journey to becoming a cool data storyteller. 
 
+# Assignment: 
+
+<iframe src="https://data.oecd.org/chart/7kks" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kks" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+
 
