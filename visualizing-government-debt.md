@@ -35,5 +35,16 @@ This is a table with gradient color showing the general Governent Debt Data from
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-This line chart shows the change of government debt after 2008 subprime mortage crisis for G7 countries.
+The visualization provided is a multi-line chart representing the government debt as a percentage of GDP for G7 countries from 1995 to 2019, with a clear focus on the surge in debt following the 2008 subprime mortgage crisis.
 
+From this chart, we can interpret several key points:
+
+Pre-Crisis Trends (1995-2007): Prior to the 2008 crisis, we observe a mix of trends among the G7 countries. Some countries show a gradual increase in debt relative to GDP (e.g., Italy and Japan), while others exhibit more stability or even a decrease (e.g., Canada and Germany). This suggests varied fiscal policies and economic conditions before the crisis.
+
+Impact of the 2008 Crisis: There's a notable inflection point at 2008, marked by dots on each country's line. This denotes the year of the subprime mortgage crisis, and we can see a sharp upward trajectory in the debt ratios for all countries immediately after. This increase reflects the widespread economic stress and the response measures like stimulus spending and bailouts that governments enacted, increasing public debt.
+
+Post-Crisis Recovery and Debt Trends (2009-2019): After the initial surge in debt ratios post-crisis, countries' trajectories diverge. Some, like the USA and Canada, show a stabilization and slight decline in the later years, indicating a recovery and possibly effective debt management strategies. In contrast, countries like Italy and Japan continue on an upward trend, suggesting ongoing fiscal challenges or a slower economic recovery.
+
+Country-Specific Observations: Japan’s debt ratio is the highest among the G7 throughout the period and continues to grow, while countries like Germany and Canada appear to have managed their debt more effectively, especially in the decade following the crisis.
+
+The data tells us a story of how major economies were impacted by the 2008 financial crisis, with the immediate aftermath seeing a significant rise in debt as governments took on more liabilities to stabilize their economies. The subsequent years reveal how each country coped with the increased debt and whether they were able to reduce it relative to their GDP, which can be an indicator of economic health and fiscal policy success.
