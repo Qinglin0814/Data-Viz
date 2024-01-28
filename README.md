@@ -21,6 +21,8 @@ Here's the roadmap of my journey to becoming a cool data storyteller.
 
 Visualizing government debt using Tableau. Jan 28.
 
+[Comparison of different visualization methods](/compare-data-viz.md)
+
 
 
 
