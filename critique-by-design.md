@@ -17,5 +17,10 @@ The rationale behind this visualization's critique and subsequent redesign is gr
 
 ## Step 2: Critique Data Viz
 
+**1. Usefulness: 6/10**
+  * Data Labels: The map does not provide specific age labels for each country, requiring viewers to cross-reference the color key, which can be cumbersome and time-consuming.
+  * Color Coding: The use of similar shades for consecutive ages makes it difficult to differentiate between them at a glance. This diminishes the map's effectiveness in conveying precise information quickly.
+  * This visualization might score around a 6. It presents valuable data but could benefit significantly from design improvements that enhance readability, accessibility, and immediate comprehension.
+
 
 
