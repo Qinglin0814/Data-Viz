@@ -17,13 +17,15 @@ My plan? To create my own projects. Picture this: transforming my month-long Eur
 
 Here's the roadmap of my journey to becoming a cool data storyteller. 
 
-# Assignment:[Visualizing Government Debt](/visualizing-government-debt.md)
+## Assignment:[Visualizing Government Debt](/visualizing-government-debt.md)
 
 Visualizing government debt using Tableau. Jan 28.
 
 [Comparison of different visualization methods](/compare-data-viz.md)       
 
 [Trust in Media](/newsdemo.md)
+
+## Assignment 3&4: Critique by Design with Tableau
 
 
 
