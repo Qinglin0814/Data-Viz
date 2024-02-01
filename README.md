@@ -25,7 +25,7 @@ Visualizing government debt using Tableau. Jan 28.
 
 [Trust in Media](/newsdemo.md)
 
-## Assignment 3&4: Critique by Design with Tableau
+## Assignment 3&4: [Critique by Design with Tableau](/critique-by-design.md)
 
 
 
