@@ -39,5 +39,10 @@ The rationale behind this visualization's critique and subsequent redesign is gr
  * Appropriate Precision: The use of color coding to represent different retirement ages seems to be at an appropriate level of precision, given the rounded data
  * Considering these factors, the truthfulness of this visualization could be rated around an 8 out of 10. It appears to accurately and validly represent the data it claims to, albeit with some loss of precision due to rounding and color representation.
    
-**5. Truthfulness: 8/10**
+**5. Intuitiveness: 8/10**
+ * Familiarity of Format: The map is a familiar format for presenting geographical data so most viewers are accustomed to seeing maps used in this way.
+ * Data Labels: The absence of direct data labels on the map requires viewers to cross-reference with the legend, reducing intuitiveness. Directly labeled maps tend to be more intuitive as they provide immediate understanding.
+ * Similar color: The colors used to represent different level of countries are similar, so it is hard for viewers to tell the differences, and it is more harder for colorblind individuals or those with visual impairments.
+
+
 
