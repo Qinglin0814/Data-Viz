@@ -77,4 +77,4 @@ The rationale behind this visualization's critique and subsequent redesign is gr
  * **Can you describe to me what this is telling you?** The Japen and New Zealand have the eldest age at 68.2 for men and for women the eldest is 69.2 years old in Indonisia. Most of ages is between 60 to 65.
  * **Is there anything you find surprising or confusing?** For the fist picture, I think it is hard to understand the size of spot at first glance and it needs many eyes' moving to match the label, number and the spot. And the labels are up and down which makes the first picture a bit busy.
  * **Who do you think is the intended audience for this?** Workers in the mentioned countries and social science researchers.
- * **Is there anything you would change or do differently?** Make the label aligned in the first picture.
+ * **Is there anything you would change or do differently?** Make the label aligned in the first picture. For the second picture, I want to change the scale of the ages-axis. The current one's scale is too large for these data.
