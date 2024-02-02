@@ -54,5 +54,6 @@ The rationale behind this visualization's critique and subsequent redesign is gr
  * Relevance and Timeliness: The data is from 2020, but the article is for 2023, so I think the less relevance decrease the engagement.
 
 
+## Step 3: Wireframe A Solution
 
-## Step 2: Critique Data Viz
+
