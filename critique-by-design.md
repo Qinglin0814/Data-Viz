@@ -54,7 +54,10 @@ The rationale behind this visualization's critique and subsequent redesign is gr
  * Relevance and Timeliness: The data is from 2020, but the article is for 2023, so I think the less relevance decrease the engagement.
 
 
-## Step 3: Wireframe A Solution
+## Step 3: Wireframe A Solution 
 ### Design 1: Retirement Ages Around World in 2020 for Men and Women
 ![Retirement Ages Around World in 2020 for Men and Women](https://qinglin0814.github.io/my-picture/assignmen34-1.jpeg)
+
+### Design 2: Average Retirement Ages Around World from 10970 to 2020
+![Retirement Ages Around World in 2020 for Men and Women](https://qinglin0814.github.io/my-picture/assignment34-2.jpeg)
 
