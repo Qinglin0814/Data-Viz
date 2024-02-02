@@ -61,3 +61,20 @@ The rationale behind this visualization's critique and subsequent redesign is gr
 ### Design 2: Average Retirement Ages Around World from 10970 to 2020
 ![Retirement Ages Around World in 2020 for Men and Women](https://qinglin0814.github.io/my-picture/assignment34-2.jpeg)
 
+
+## Step 4: Test the solution
+
+## Student, mid 20's
+ * **Can you tell me what you think this is?** YES, In the first picture the ages in different countries are shown in a interesting way and in the second picture, the change is shown clealy.
+ * **Can you describe to me what this is telling you?** First, most countries have a retirement ages range from 60 to 65. Second, the retirement ages decreased before 2000 but increase after 2000.
+ * **Is there anything you find surprising or confusing?** The design way in the first picture is interesting, a line and spots with different size. But it is not that easy for me to find some countries and do some comparison between men and women in the same country. For the second picture, the change is shown in a effectively and clearly way.
+ * **Who do you think is the intended audience for this?** Policy makers and some readers who are interested in this topic.
+ * **Is there anything you would change or do differently?** Actually, although the design is good, I prefer a table to show all data in a more logical way for the first picture. 
+
+
+## Adult, mid 50's
+ * **Can you tell me what you think this is?** YES, first is to list the retirement ages and the second one is to show the change of retirement ages from 1970 to 2020.
+ * **Can you describe to me what this is telling you?** The Japen and New Zealand have the eldest age at 68.2 for men and for women the eldest is 69.2 years old in Indonisia. Most of ages is between 60 to 65.
+ * **Is there anything you find surprising or confusing?** For the fist picture, I think it is hard to understand the size of spot at first glance and it needs many eyes' moving to match the label, number and the spot. And the labels are up and down which makes the first picture a bit busy.
+ * **Who do you think is the intended audience for this?** Workers in the mentioned countries and social science researchers.
+ * **Is there anything you would change or do differently?** Make the label aligned in the first picture.
