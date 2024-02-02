@@ -44,5 +44,15 @@ The rationale behind this visualization's critique and subsequent redesign is gr
  * Data Labels: The absence of direct data labels on the map requires viewers to cross-reference with the legend, reducing intuitiveness. Directly labeled maps tend to be more intuitive as they provide immediate understanding.
  * Similar color: The colors used to represent different level of countries are similar, so it is hard for viewers to tell the differences, and it is more harder for colorblind individuals or those with visual impairments.
 
+**6. Aesthetics：9/10**
+ * Visual Appeal: The color palette is harmonious, making the map visually pleasing. The design is clean and free from unnecessary clutter, contributing to its visual appeal.
+ * Quality of Design: The visualization exhibits a professional level of design. It is well-structured and adheres to a clear color scheme.
+
+**7. Engagement：6/10**
+ * Data Accessibility: Although the map provide the data in a colorful way, lack of specific legand and label for each country makes it challenging for audiences to dive into the data. Maybe they just focus on the beautiful picture and design.
+ * Visual Hierarchy and Flow: The map does not direct the eye in a manner that encourages exploration. For instance, highlighting outliers or trends could guide viewers to ask why certain countries differ from others.
+ * Relevance and Timeliness: The data is from 2020, but the article is for 2023, so I think the less relevance decrease the engagement.
 
 
+
+## Step 2: Critique Data Viz
