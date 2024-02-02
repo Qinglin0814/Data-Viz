@@ -55,5 +55,6 @@ The rationale behind this visualization's critique and subsequent redesign is gr
 
 
 ## Step 3: Wireframe A Solution
-
+### Design 1: Retirement Ages Around World in 2020 for Men and Women
+https://qinglin0814.github.io/my-picture/assignmen34-1.jpeg
 
