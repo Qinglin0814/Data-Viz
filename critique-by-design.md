@@ -94,8 +94,17 @@ The rationale behind this visualization's critique and subsequent redesign is gr
 
 > Follow the Tableau tutorial by Andy Kriebel: https://www.youtube.com/watch?v=NFnTUK2lf-E
 
-* Content:
-* Why this method is effective: 
+* The data visualization is a grid of line graphs comparing retirement ages across various countries to the OECD average over time, specifically from 1970 to 2020. Each cell in the grid represents a different country, with two lines within each cell: one line represents the retirement age for that particular country, while the other (the blue line) represents the OECD average for comparison.
+  
+* **Why this method is effective:**
+ * Comparative Clarity: It allows for an easy comparison of retirement ages across different countries with respect to the OECD average, enabling viewers to quickly identify which countries have higher or lower retirement ages.
+ * Trend Analysis: The visualization shows trends over time, making it clear whether retirement ages are increasing, decreasing, or remaining stable in each country.
+ * Organization: The grid format is organized and allows for many countries to be displayed at once without overwhelming the viewer, as opposed to a single, cluttered graph.
+ * Aesthetic and Design: The use of color coding helps distinguish between the individual countries' data and the OECD average. This color contrast is visually pleasing and aids in readability.
+  
+* **Something can be better:**
+ * Over-Simplification: Each country's retirement age policy might be more complex than a single line can convey, potentially overlooking nuances like different retirement ages based on gender.
+ * Missing Data: The note at the bottom states that it only includes countries with data for all decades. This means that countries with incomplete data are excluded, which could skew the overall picture of retirement ages worldwide.
 
 
 
