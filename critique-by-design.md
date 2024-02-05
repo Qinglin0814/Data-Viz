@@ -80,7 +80,9 @@ The rationale behind this visualization's critique and subsequent redesign is gr
  * **Is there anything you would change or do differently?** Make the label aligned in the first picture. For the second picture, I want to change the scale of the ages-axis. The current one's scale is too large for these data.
 
 ### Conclusion
- * 
+ * Readability: To targeted a large scale of audience, it is a must-do to make the graph more clear and easy to get information at the first glance. This is why we always see tables, bar charts, pie charts in the newspaper and social media, though they are not that aesthetic sometimes.
+ * The scale of Axis affect the effect of a data viz work greatly, so when do design, it is worthful to choose a suitable scale for the Y-axis and X-axis.
+ * Different audience holds different perspectives when facing a data viz.
 
 ## Step 5: Build Your Solution
 
@@ -125,5 +127,10 @@ The rationale behind this visualization's critique and subsequent redesign is gr
 
 > By Qing LIN
 
-* This graph show how the retirement ages of women and men changed from 1970 to 2020. We can see from the picture above that  
+* The line graph that illustrates how the average retirement age for men and women has changed from 1970 to 2020. Throughout the entire timeline from 1970 to 2020, men have a higher average retirement age than women. Notably, there is a pronounced "V" shape for both genders, indicating a reversal in the trend around the 1990s.
 
+* **Why this method is effective:**
+ * Trend Analysis: It is a overall comparision and show the trend around the world clearly. Compared to the last one, this one is more easy for audience to get the information since the label is more close to the line and dot.
+  
+* **Something can be better:**
+ * Data: Some countries don't provide specific data for some years, so the calculation for the average ages may be not that comprehensive. 
