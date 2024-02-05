@@ -108,6 +108,7 @@ The rationale behind this visualization's critique and subsequent redesign is gr
  * Aesthetic and Design: The use of color coding helps distinguish between the individual countries' data and the OECD average. This color contrast is visually pleasing and aids in readability.
   
 * **Something can be better:**
+ * It is confusing! Too many data, too many contries!
  * Over-Simplification: Each country's retirement age policy might be more complex than a single line can convey, potentially overlooking nuances like different retirement ages based on gender.
  * Missing Data: The note at the bottom states that it only includes countries with data for all decades. This means that countries with incomplete data are excluded, which could skew the overall picture of retirement ages worldwide.
 
