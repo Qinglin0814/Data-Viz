@@ -45,6 +45,9 @@
 
 ## INITIAL SKETCHES
 
+![Sketch-1](https://github.com/Qinglin0814/Data-Viz/assets/149644164/22c672d7-8529-4d49-9807-b2f26baef5ab)
+![Sketch-2](https://github.com/Qinglin0814/Data-Viz/assets/149644164/7e0a9d6c-4dbf-40a4-a6c1-6b7f832086d3)
+
 
 ## DATA
   * [White Paper on Family Education in China](/https://cdn1.jianzhikeji.com/files/2021-china-education-white-paper.pdf)
