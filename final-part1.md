@@ -1,9 +1,12 @@
 # FINAL PROJECT PART 1
 
 ## OUTLINE 
-**The mind can be sick: Chinese teenagers trapped in the "invisible web" 
-—— Be wary of "The Trouble with Young Werther"
-**
+**The mind can be sick: Chinese teenagers trapped in the "invisible web"**
+
+
+**—— Be wary of "The Trouble with Young Werther"**
+
+
   * Introduction:
     *  The global incidence of mental disorders among children and adolescents ranges from 12% to 28% and is on the rise. In recent years, Chinese surveys have also found that children and adolescents suffer from mental health problems of varying degrees of severity in about 5-30% of cases, with about 1 in 5 children having a tendency to be depressed. This work focus on the trend and the reason of it.
 
@@ -44,7 +47,14 @@
 
 
 ## DATA
+  * [White Paper on Family Education in China](/https://cdn1.jianzhikeji.com/files/2021-china-education-white-paper.pdf)
+  * [2021-2022 Mass Mental Health Insights Report](/https://files.jiandanxinli.com/reports/2021.pdf)
+  * [REPORT ON NATIONAL MENTAL HEALTH DEVELOPMENT IN CHINA （2021-2022）](/https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=14414517)
 
+> I can't find some original data set about this topic, but there are many reports providing many data, So I want to use them for this project.
 
 ## METHOD AND MEDIA
+  * I plan to use Shorthand to make a website page and using Tableau, Canva (maybe Photoshop) to do Data Visualzation for telling this story.
+  * For story telling some maybe some interviews will be included.
+
 
