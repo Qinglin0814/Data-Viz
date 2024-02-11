@@ -28,7 +28,7 @@ Visualizing government debt using Tableau. Jan 28.
 ## Assignment 3&4: [Critique by Design with Tableau](/critique-by-design.md)
 
 ## Final Project: 
-  ### [PART I](/final-part1,md)
+  ### [PART I](/final-part1.md)
 
 
 
