@@ -55,6 +55,6 @@
 
 ## METHOD AND MEDIA
   * I plan to use Shorthand to make a website page and using Tableau, Canva (maybe Photoshop) to do Data Visualzation for telling this story.
-  * For story telling some maybe some interviews will be included.
+  * For story telling some interviews will be included.
 
 
