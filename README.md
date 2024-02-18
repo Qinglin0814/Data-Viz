@@ -1,3 +1,6 @@
+| [home page](https://qinglin0814.github.io/Data-Viz/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-part1) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+
 # Data-Viz
 
 My portfolio page for Telling Story with Data at CMU :)
@@ -29,6 +32,7 @@ Visualizing government debt using Tableau. Jan 28.
 
 ## Final Project: 
   ### [PART I](/final-part1.md)
+  ### [PART II](/final-part2.md)
 
 
 
