@@ -76,10 +76,18 @@ Based on these insights, the following changes are planned for the visualization
 
 
 ## **Targeted Audience**
-|  Group    |  Description |
-|:---------|:---------|
-| Adolescents and students |A directly affected group that may be experiencing depression or recognising their risk. This group prefers to use digital platforms for information and enjoys learning through videos, social media and interactive content. They need content that is easy to understand and resonates with them, as well as practical information on how to seek help and support.|
-| Parents and guardians | Adults who are concerned about their children's health and may be interested in identification and interventions for adolescent depression. They seek instructional information on how to communicate with their children, detect signs of depression, and ways to provide support. In addition, parents and guardians may seek resources on how to educate themselves and improve the home environment. |
-| Educators and school administrators | Professionals who play an important role in the lives of adolescents, including teachers, counsellors and school psychologists. They need to know how to recognise potential depressive symptoms, ways to provide initial support for students, and how to direct students and families to professional help. Educators are also concerned with how to promote mental health awareness and a positive mental health culture in the school environment. |
-| Mental Health Professionals | Professionals such as psychologists, psychiatrists, and counsellors who have a deep professional interest in treatments and interventions for adolescent depression. This group seeks research-based data, information on treatment trends and policy changes, and ways to more effectively support their patients. |
-| Policymakers and public health officials | Decision makers who have influence over policy on adolescent health and well-being. They need data on the social and economic impact of depression and evidence of effective interventions and public health strategies. This information helps them to develop and implement more effective policies to improve adolescents' mental health and overall well-being. |
+1. Adolescents and students:
+   * A directly affected group that may be experiencing depression or recognising their risk.
+   * This group prefers to use digital platforms for information and enjoys learning through videos, social media and interactive content. They need content that is easy to understand and resonates with them, as well as practical information on how to seek help and support.
+2. Parents and guardians:
+   * Adults who are concerned about their children's health and may be interested in identification and interventions for adolescent depression.
+   * They seek instructional information on how to communicate with their children, detect signs of depression, and ways to provide support. In addition, parents and guardians may seek resources on how to educate themselves and improve the home environment.
+3. Educators and school administrators:
+   * Professionals who play an important role in the lives of adolescents, including teachers, counsellors and school psychologists.
+   * They need to know how to recognise potential depressive symptoms, ways to provide initial support for students, and how to direct students and families to professional help. Educators are also concerned with how to promote mental health awareness and a positive mental health culture in the school environment.
+4. Mental Health Professionals:
+   * Professionals such as psychologists, psychiatrists, and counsellors who have a deep professional interest in treatments and interventions for adolescent depression.
+   * This group seeks research-based data, information on treatment trends and policy changes, and ways to more effectively support their patients.
+5. Policymakers and public health officials:
+   * Decision makers who have influence over policy on adolescent health and well-being.
+   * They need data on the social and economic impact of depression and evidence of effective interventions and public health strategies. This information helps them to develop and implement more effective policies to improve adolescents' mental health and overall well-being. 
