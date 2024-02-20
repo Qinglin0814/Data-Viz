@@ -64,5 +64,15 @@ This is the data viz work I found on the internet and related to the Mental Heal
 * **Is there anything else you want to know?** You mentioned the increase in public attention, which is the part I'm more interested in. For example, what policies are actually geared towards addressing this issue? What does psychoeducation in schools typically consist of? Is there any reflection of family education in China? You summarised the "seven deadly sins", but I would like to see more details.
 
 
+## **My Take and Improvement Plan**
+Across the interviews, several common themes emerged: the need for simple, accessible information; the importance of relatable, personal stories; and the desire for practical solutions and strategies. There's also a clear call for content that addresses the cultural context of adolescent depression in China, indicating the necessity of culturally sensitive approaches.
+
+
+Based on these insights, the following changes are planned for the visualizations:
+ 1. Simplify Information: Ensure that all content is easy to understand, avoiding jargon and technical language where possible.
+ Enhance Interactivity: Incorporate interactive elements, such as quizzes and clickable stories, to engage users and provide personalized insights.
+ 2. Focus on Practical Solutions: Shift emphasis towards actionable advice, coping strategies, and how to communicate about mental health issues effectively.
+ 3. Cultural Sensitivity: Integrate information on the socio-cultural factors specific to China, including how these influence the perception and treatment of adolescent depression.
+
 
 
