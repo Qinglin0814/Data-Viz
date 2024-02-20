@@ -2,7 +2,6 @@
 
 ## **Wireframes and storyboards**
 
-[Draft Version Website](/https://preview.shorthand.com/aMtfADnlkkbZPMCB)
 https://preview.shorthand.com/aMtfADnlkkbZPMCB
 
 
