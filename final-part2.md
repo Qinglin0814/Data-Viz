@@ -21,9 +21,9 @@ This is the data viz work I found on the internet and related to the Mental Heal
 
 **1. Chinese Women, 45 years old, a mother of a high school boy**
   a. Why HER： The primary target audience for this story is parents of high school students. This group is likely to be deeply interested in understanding the signs, impacts, and prevention strategies related to adolescent depression, to better support their children.
-  b. Q: Can you tell me a little about your experience as a parent of a high school student?
-     A: "It's been a journey of ups and downs. My son is at a stage where he's finding his identity and facing academic and social pressures. I try to support him as much as I can, but sometimes it feels like navigating through a maze without a map."
-  c. Q: Have you or anyone you know encountered challenges related to adolescent depression?
-     A: "Yes, a friend's daughter went through a tough phase last year. It was an eye-opener for me on how real and close to home adolescent depression can be. It made me realize the importance of being informed and vigilant."
+  b. **Can you tell me a little about your experience as a parent of a high school student?** "It's been a journey of ups and downs. My son is at a stage where he's finding his identity and facing academic and social pressures. I try to support him as much as I can, but sometimes it feels like navigating through a maze without a map."
+  c. **Have you or anyone you know encountered challenges related to adolescent depression?** "Yes, a friend's daughter went through a tough phase last year. It was an eye-opener for me on how real and close to home adolescent depression can be. It made me realize the importance of being informed and vigilant."
+  
+  
      
 
