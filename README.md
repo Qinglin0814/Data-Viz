@@ -1,4 +1,4 @@
-| [home page](https://qinglin0814.github.io/Data-Viz/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-part1) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://qinglin0814.github.io/Data-Viz/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-part1) | [final project II](final-part2.md) | [final project III](final-project-part-three) |
 
 
 # Data-Viz
