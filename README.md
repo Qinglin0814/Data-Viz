@@ -1,4 +1,4 @@
-| [home page](https://qinglin0814.github.io/Data-Viz/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-part1.md) | [final project II](final-part2.md) | [final project III](final-project-part-three) |
+| [home page](https://qinglin0814.github.io/Data-Viz/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-part1.md) | [final project II](final-part2.md) | [final project III](final-part3.md) |
 
 
 # Data-Viz
@@ -31,8 +31,9 @@ Visualizing government debt using Tableau. Jan 28.
 ## Assignment 3&4: [Critique by Design with Tableau](/critique-by-design.md)
 
 ## Final Project: 
-  ### [PART I](/final-part1.md)
-  ### [PART II](/final-part2.md)
+* [PART I](/final-part1.md)
+* [PART II](/final-part2.md)
+* [PART III](/final-part3.md)
 
 
 
